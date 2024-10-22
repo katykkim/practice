@@ -1,5 +1,5 @@
 #### Reflection
-The solution that I have implemented has time complexity of $O(n^2)$ and space complexity of $O(1)$.
+The solution that I have implemented has **time complexity of $O(n^2)$** and **space complexity of $O(1)$**.
 
 I could come up with better solution with less time complexity by using **Hash Table**.
 
@@ -20,4 +20,4 @@ class Solution {
 }
 ```
 
-By using hash table approach, we can get time complexity of $O(n)$ and space complexity of $O(n)$.
+By using hash table approach, we can get **time complexity of $O(n)$** and **space complexity of $O(n)$**.
